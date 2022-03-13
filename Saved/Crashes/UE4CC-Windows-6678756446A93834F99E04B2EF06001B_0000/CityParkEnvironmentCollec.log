@@ -1,0 +1,1238 @@
+﻿Log file open, 03/11/22 16:29:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CityParkEnvironmentCollec
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.403253
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.12-01.29.16:258][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.12-01.29.16:258][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.12-01.29.16:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Engine.ini]
+[2022.03.12-01.29.16:259][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.12-01.29.16:259][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.03.12-01.29.16:259][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Engine.ini]
+[2022.03.12-01.29.16:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Engine.ini]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Engine.ini]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.12-01.29.16:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Engine.ini]
+[2022.03.12-01.29.16:289][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Engine.ini]
+[2022.03.12-01.29.16:493][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.12-01.29.16:493][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.12-01.29.16:494][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.12-01.29.16:494][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.12-01.29.16:494][  0]LogHAL: Display: Platform has ~ 16 GB [16892694528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.12-01.29.16:498][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.12-01.29.16:504][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.12-01.29.16:504][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Scalability.ini]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.12-01.29.16:505][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.12-01.29.16:523][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.12-01.29.16:523][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.12-01.29.16:523][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.12-01.29.16:523][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Engine.ini]
+[2022.03.12-01.29.16:523][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TestGame/CityParkEnvironmentCollec/Saved/Config/Windows/Editor.ini]
+[2022.03.12-01.29.16:549][  0]LogInit: Computer: DESKTOP-KHAR8GD
+[2022.03.12-01.29.16:549][  0]LogInit: User: inser
+[2022.03.12-01.29.16:549][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.03.12-01.29.16:549][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.12-01.29.16:549][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.03.12-01.29.16:563][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.12-01.29.16:563][  0]LogMemory: Process Physical Memory: 144.00 MB used, 144.00 MB peak
+[2022.03.12-01.29.16:563][  0]LogMemory: Process Virtual Memory: 126.87 MB used, 126.87 MB peak
+[2022.03.12-01.29.16:563][  0]LogMemory: Physical Memory: 11398.96 MB used,  4711.16 MB free, 16110.13 MB total
+[2022.03.12-01.29.16:563][  0]LogMemory: Virtual Memory: 134209056.00 MB used,  8671.55 MB free, 134217728.00 MB total
+[2022.03.12-01.29.16:568][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.12-01.29.17:824][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.12-01.29.17:890][  0]LogInit: Using OS detected language (en-US).
+[2022.03.12-01.29.17:890][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.12-01.29.18:443][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.12-01.29.19:496][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.12-01.29.19:646][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.12-01.29.20:531][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.12-01.29.20:531][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.12-01.29.22:555][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.12-01.29.22:573][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.12-01.29.22:573][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.12-01.29.22:573][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.12-01.29.22:573][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.12-01.29.22:646][  0]LogD3D11RHI:    0. 'Radeon (TM) RX 560X' (Feature Level 11_0)
+[2022.03.12-01.29.22:646][  0]LogD3D11RHI:       4076/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.03.12-01.29.22:664][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.03.12-01.29.22:664][  0]LogD3D11RHI:       128/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:       0/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:     Description : Radeon (TM) RX 560X
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:     DeviceId    : 67ff
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:     SubSysId    : 36f917aa
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:     Revision    : 00ef
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:     DedicatedVideoMemory : 4274950144 bytes
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:     SharedSystemMemory : 8446347264 bytes
+[2022.03.12-01.29.22:671][  0]LogD3D11RHI:     AdapterLuid : 0 58987
+[2022.03.12-01.29.22:743][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.12-01.29.22:786][  0]LogD3D11RHI:     GPU DeviceId: 0x67ff (for the marketing name, search the web for "GPU Device Id")
+[2022.03.12-01.29.22:786][  0]LogWindows: EnumDisplayDevices:
+[2022.03.12-01.29.22:786][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.03.12-01.29.22:787][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.12-01.29.22:787][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.12-01.29.22:787][  0]LogWindows:    3. 'Radeon (TM) RX 560X' (P:0 D:0)
+[2022.03.12-01.29.22:787][  0]LogWindows:    4. 'Radeon (TM) RX 560X' (P:0 D:0)
+[2022.03.12-01.29.22:787][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2022.03.12-01.29.22:787][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) RX 560X
+[2022.03.12-01.29.22:787][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.23.04 (internal:30.0.13023.4001, unified:30.0.13023.4001)
+[2022.03.12-01.29.22:787][  0]LogD3D11RHI:      Driver Date: 12-16-2021
+[2022.03.12-01.29.22:788][  0]LogRHI: Texture pool is 2425 MB (70% of 3465 MB)
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI:     Description : Radeon (TM) RX 560X
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI:     DeviceId    : 67ff
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI:     SubSysId    : 36f917aa
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI:     Revision    : 00ef
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI:     DedicatedVideoMemory : 4274950144 bytes
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI:     SharedSystemMemory : 8446347264 bytes
+[2022.03.12-01.29.22:811][  0]LogD3D11RHI:     AdapterLuid : 0 58987
+[2022.03.12-01.29.22:852][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2022.03.12-01.29.22:852][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.12-01.29.22:853][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.12-01.29.22:853][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.12-01.29.23:454][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.03.12-01.29.24:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.12-01.29.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.12-01.29.24:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.12-01.29.24:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.12-01.29.24:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.12-01.29.24:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.12-01.29.24:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.12-01.29.24:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.12-01.29.24:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.12-01.29.24:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.12-01.29.24:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.12-01.29.24:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.12-01.29.24:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.12-01.29.24:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.12-01.29.24:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.12-01.29.24:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.12-01.29.24:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.12-01.29.25:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.12-01.29.25:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.12-01.29.25:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.12-01.29.25:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.12-01.29.25:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.12-01.29.25:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.12-01.29.25:365][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.12-01.29.25:456][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.12-01.29.25:802][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.12-01.29.26:130][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.12-01.29.26:159][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../TestGame/CityParkEnvironmentCollec/Intermediate/Shaders/WorkingDirectory/6400/).
+[2022.03.12-01.29.26:159][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/inser/AppData/Local/Temp/UnrealShaderWorkingDir/AEE0E3834DC16CE7F2EC478CAA56E0EB/'.
+[2022.03.12-01.29.26:161][  0]LogXGEController: Cleaning working directory: C:/Users/inser/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.03.12-01.29.26:277][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2022.03.12-01.29.28:813][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.12-01.29.28:989][  0]LogDerivedDataCache: Loaded boot cache 0.11s 104MB C:/Users/inser/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.12-01.29.28:989][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/inser/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.12-01.29.28:989][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../TestGame/CityParkEnvironmentCollec/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.12-01.29.28:989][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.12-01.29.28:989][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../TestGame/CityParkEnvironmentCollec/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.12-01.29.28:989][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.12-01.29.29:075][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.12-01.29.29:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.12-01.29.29:075][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.12-01.29.29:085][  0]LogDerivedDataCache: Speed tests for C:/Users/inser/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.12-01.29.29:085][  0]LogDerivedDataCache: Display: Performance to C:/Users/inser/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.21ms. RandomReadSpeed=268.37MBs, RandomWriteSpeed=268.66MBs. Assigned SpeedClass 'Local'
+[2022.03.12-01.29.29:099][  0]LogDerivedDataCache: Using Local data cache path C:/Users/inser/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.12-01.29.29:099][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.12-01.29.29:099][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.12-01.29.29:414][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.12-01.29.29:428][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.12-01.29.29:709][  0]LogAssetRegistry: FAssetRegistry took 0.0064 seconds to start up
+[2022.03.12-01.29.34:594][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.12-01.29.34:594][  0]LogInit: Active device profile: [00000244F0136C00][00000244EB098240 49] Windows
+[2022.03.12-01.29.34:594][  0]LogInit: Profiles: [00000244F0136C00][00000244EB098240 49] Windows, [00000244F00F5600][00000244EC0283C0 49] WindowsNoEditor, [00000244F0135600][00000244EC02C540 49] WindowsServer, [00000244F00F6300][00000244EC0306C0 49] WindowsClient, [00000244F0136200][00000244EB09C800 49] IOS, [00000244F00F6400][00000244EC034940 49] iPadAir, [00000244F0136900][00000244EC038A80 49] iPadAir2, [00000244F0096C00][00000244EC044D00 49] IPadPro, [00000244F0096D00][00000244EC03CD40 49] iPadAir3, [00000244F0136300][00000244DFB44EC0 49] iPadAir4, [00000244F0097400][00000244DFB49040 49] iPadMini2, [00000244F0135D00][00000244DFB4D1C0 49] iPadMini3, [00000244F0095200][00000244DFB51340 49] iPadMini4, [00000244F0134B00][00000244DFB554C0 49] iPadMini5, [00000244F00DE500][00000244DFB5D780 49] iPhone6, [00000244F00DE600][00000244DFB597C0 49] iPodTouch6, [00000244F0095F00][00000244DFB65A80 49] iPhone7, [00000244F0096000][00000244DFB61AC0 49] iPodTouch7, [00000244F00DE700][00000244DFB680C0 49] iPhone5S, [00000244F0094A00][00000244DFB6C240 49] iPhone6Plus, [00000244F00DD200][00000244DFB703C0 49] iPhone6S, [00000244F0097B00][00000244DFB74540 49] iPhone6SPlus, [00000244F00DFC00][00000244DFB786C0 49] iPhone7Plus, [00000244F0097700][00000244DFB7C840 49] iPhoneSE, [00000244F00DF000][00000244EC040980 49] iPhone8, [00000244F0094800][00000244DFB80AC0 49] iPhone8Plus, [00000244F00DC200][00000244DFB84C00 49] iPhoneX, [00000244F0095900][00000244EBD44D40 49] iPhoneXS, [00000244F00DE100][00000244EBD4CEC0 49] iPhoneXSMax, [00000244F0096500][00000244EBD51040 49] iPhoneXR, [00000244F00DFF00][00000244EBD551C0 49] iPhone11, [00000244F0094E00][00000244EBD59340 49] iPhone11Pro, [00000244F00DEF00][00000244EBD5D4C0 49] iPhone11ProMax, [00000244F0097C00][00000244EBD61640 49] iPhoneSE2, [00000244F00DC500][00000244EBD657C0 49] iPhone12Mini, [00000244F0097E00][00000244EBD69940 49] iPhone12, [00000244F00DC600][00000244EBD6DAC0 49] iPhone12Pro, [00000244F0094900][00000244EBD700C0 49] iPhone12ProMax, [00000244F00DF300][00000244EBD74240 49] iPadPro105, [00000244F0094600][00000244EBD783C0 49] iPadPro129, [00000244F00DCA00][00000244EBD7C540 49] iPadPro97, [00000244F0097900][00000244EBD806C0 49] iPadPro2_129, [00000244F00DDF00][00000244EBD84840 49] iPad5, [00000244F0095A00][00000244EBD889C0 49] iPad6, [00000244F00DCC00][00000244EBD8CB40 49] iPad7, [00000244F0095500][00000244EBD48C80 49] iPad8, [00000244F00DC700][00000244EBD90DC0 49] iPadPro11, [00000244F0096300][00000244EBD94F00 49] iPadPro2_11, [00000244F00DCD00][00000244EBD9D080 49] iPadPro3_129, [00000244F0094300][00000244EBDA1200 49] iPadPro4_129, [00000244F00F5900][00000244EBDA5380 49] AppleTV, [00000244F0188800][00000244EBDA9500 49] AppleTV4K, [00000244F00F7500][00000244EBDAD680 49] TVOS, [00000244F0189C00][00000244EBDB1800 49] Mac, [00000244F00F7100][00000244EBDB5980 49] MacClient, [00000244F0189600][00000244EBDB9B00 49] MacNoEditor, [00000244F00F4600][00000244EBDBC100 49] MacServer, [00000244F0189E00][00000244EBDC0280 49] Linux, [00000244F00F6500][00000244EBDC4400 49] LinuxAArch64, [00000244F0188C00][00000244EBDC8580 49] LinuxNoEditor, [00000244F00F7600][00000244EBDCC700 49] LinuxAArch64NoEditor, [00000244F0189100][00000244EBDD0880 49] LinuxClient, [00000244F00F6A00][00000244EBDD4A00 49] LinuxAArch64Client, [00000244F0188E00][00000244EBDD8B80 49] LinuxServer, [00000244F00F5100][00000244EBDDCD00 49] LinuxAArch64Server, [00000244F0188100][00000244EBD98E40 49] Android, [00000244F00F4D00][00000244EBDE0F80 49] Android_Low, [00000244F0189B00][00000244EBDE50C0 49] Android_Mid, [00000244F0097800][00000244EBDED240 49] Android_High, [00000244F00DDD00][00000244EBDF13C0 49] Android_Default, [00000244F0096200][00000244EBDF5540 49] Android_Adreno4xx, [00000244F00DE000][00000244EBDF96C0 49] Android_Adreno5xx_Low, [00000244F0097D00][00000244EBDFD840 49] Android_Adreno5xx, [00000244F00DEC00][00000244EBE019C0 49] Android_Adreno6xx, [00000244F0097100][00000244EBE05B40 49] Android_Adreno6xx_Vulkan, [00000244F00DCF00][00000244EBE08140 49] Android_Mali_T6xx, [00000244F0094B00][00000244EBE0C2C0 49] Android_Mali_T7xx, [00000244F00DC100][00000244EBE10440 49] Android_Mali_T8xx, [00000244F0096800][00000244EBE145C0 49] Android_Mali_G71, [00000244F00DFE00][00000244EBE18740 49] Android_Mali_G72, [00000244F0096600][00000244EBE1C8C0 49] Android_Mali_G72_Vulkan, [00000244F00DDB00][00000244EBE20A40 49] Android_Mali_G76, [00000244F0094200][00000244EBE24BC0 49] Android_Mali_G76_Vulkan, [00000244F00DD700][00000244EBE28D40 49] Android_Mali_G77, [00000244F0096F00][00000244EBE2CEC0 49] Android_Mali_G77_Vulkan, [00000244F0189900][00000244EBDE9000 49] Android_Mali_G78, [00000244F0094C00][00000244EBE31140 49] Android_Mali_G78_Vulkan, [00000244F0188300][00000244EBE35280 49] Android_Mali_G710, [00000244F0096A00][00000244EBE393C0 49] Android_Mali_G710_Vulkan, [00000244F00DDA00][00000244F0241540 49] Android_Vulkan_SM5, [00000244F0095700][00000244F02456C0 49] Android_PowerVR_G6xxx, [00000244F00DF700][00000244F0249840 49] Android_PowerVR_GT7xxx, [00000244F0096E00][00000244F024D9C0 49] Android_PowerVR_GE8xxx, [00000244F00DEB00][00000244F0251B40 49] Android_PowerVR_GM9xxx, [00000244F0094500][00000244F0254140 49] Android_PowerVR_GM9xxx_Vulkan, [00000244F00DE400][00000244F02582C0 49] Android_TegraK1, [00000244F0097F00][00000244F025C440 49] Android_Unknown_Vulkan, [00000244F00DD300][00000244F02605C0 49] Lumin, [00000244F0094F00][00000244F0264740 49] Lumin_Desktop, [00000244F00DD600][00000244F02688C0 49] HoloLens, 
+[2022.03.12-01.29.35:675][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.12-01.29.35:675][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.12-01.29.35:675][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.12-01.29.35:675][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.12-01.29.35:676][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.12-01.29.35:995][  0]LogMeshUtilities: Finished distance field build in 0.0s - 14x8x8 distance field, 4528 triangles, Range [-0.1, 0.6], MatineeCam_SM
+[2022.03.12-01.29.35:995][  0]LogNetVersion: CityParkEnvironmentCollec 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3462933899)
+[2022.03.12-01.29.36:439][  0]LogMaterial: Display: Missing cached shadermap for HelpActorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E745E5C173DC4AB1425B2E39FF9CC304C86EF4C4), compiling. 
+[2022.03.12-01.29.36:773][  0]LogShaderCompilers: Display: Submitted 93 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.37:458][  0]LogShaderCompilers: Display: Started 93 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.37:458][  0]LogMaterial: Display: Missing cached shadermap for M_ChromeBall in PCD3D_SM5, Default, SM5 (DDC key hash: AA60482CFD8E79473319B03306036A991080A987), compiling. 
+[2022.03.12-01.29.37:530][  0]LogShaderCompilers: Display: Submitted 51 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.37:893][  0]LogShaderCompilers: Display: Started 51 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.37:893][  0]LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: C08B41D97691A048C204770915BBFEB67F94A3A8), compiling. 
+[2022.03.12-01.29.37:920][  0]LogShaderCompilers: Display: Submitted 43 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.38:056][  0]LogShaderCompilers: Display: Started 43 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.38:056][  0]LogMaterial: Display: Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: 8B8B08E20FBC5454EF45E635DFADDE12E87D0C7D), compiling. 
+[2022.03.12-01.29.38:152][  0]LogMeshUtilities: Finished distance field build in 0.8s - 64x64x20 distance field, 2048 triangles, Range [-0.0, 1.0], PlanarReflectionPlane
+[2022.03.12-01.29.38:152][  0]LogShaderCompilers: Display: Submitted 58 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.38:270][  0]LogShaderCompilers: Display: Started 58 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.38:270][  0]LogMaterial: Display: Missing cached shadermap for BaseFlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 705658D1DF108FA69F0157872C617E8EC276EA27), compiling. 
+[2022.03.12-01.29.38:372][  0]LogShaderCompilers: Display: Submitted 63 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:299][  0]LogShaderCompilers: Display: Started 63 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:299][  0]LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: 96B1BFAB065F21F5DFFE40A28F9E928B1D838338), compiling. 
+[2022.03.12-01.29.44:314][  0]LogShaderCompilers: Display: Submitted 21 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:315][  0]LogMaterial: Display: Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: B3AC820B99988D309055175E97F69AC2D8E2C6CB), compiling. 
+[2022.03.12-01.29.44:324][  0]LogShaderCompilers: Display: Started 21 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:324][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:594][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:594][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough in PCD3D_SM5, Default, SM5 (DDC key hash: 9264508EBDF00BB75F54212356532B06CD3593A7), compiling. 
+[2022.03.12-01.29.44:602][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:620][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:621][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: 5453312CD5E1B4F4D4A9EE967B0A3A7A00A69571), compiling. 
+[2022.03.12-01.29.44:630][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:634][  0]LogShaderCompilers: Display: Started 14 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:634][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: FCD504A2E910BDEF4D5F352F6E73BB206C6BC6A8), compiling. 
+[2022.03.12-01.29.44:645][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:665][  0]LogShaderCompilers: Display: Started 16 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:665][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: EFF671A63CE19FFF37E8BDCD758E070A58AA1ECE), compiling. 
+[2022.03.12-01.29.44:672][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:675][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: FB7EAF367519E67733E8BDABBA465F63E8D29BBC), compiling. 
+[2022.03.12-01.29.44:693][  0]LogShaderCompilers: Display: Started 11 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:693][  0]LogShaderCompilers: Display: Submitted 31 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:696][  0]LogShaderCompilers: Display: Started 31 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:696][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 5E158D2A4A77089E53DC8D6FAC5EABFA5E2DB4F5), compiling. 
+[2022.03.12-01.29.44:714][  0]LogShaderCompilers: Display: Submitted 31 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:750][  0]LogShaderCompilers: Display: Started 31 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:750][  0]LogMaterial: Display: Missing cached shadermap for Widget3DCameraPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: C1B009C1E02E07A69D516EA77060CBE42C51E532), compiling. 
+[2022.03.12-01.29.44:758][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:821][  0]LogShaderCompilers: Display: Started 11 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:821][  0]LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B0334757F39B4AF567EF99C0B36295EC1B0646EF), compiling. 
+[2022.03.12-01.29.44:829][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:831][  0]LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 087919FF715AFE152A37BF28BE9C3735CF150C2C), compiling. 
+[2022.03.12-01.29.44:839][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.44:839][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.45:020][  0]LogShaderCompilers: Display: Started 11 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.45:021][  0]LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: 743A8EED7509A3F2C45EC7C571291E6E60BA3F76), compiling. 
+[2022.03.12-01.29.45:049][  0]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.45:091][  0]LogShaderCompilers: Display: Started 42 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.45:091][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 8DC110C49ED55AF7079F0579F9C9C035D8E914F7), compiling. 
+[2022.03.12-01.29.45:106][  0]LogShaderCompilers: Display: Submitted 21 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.45:141][  0]LogShaderCompilers: Display: Started 21 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.45:141][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x14x8 distance field, 6252 triangles, Range [-0.1, 0.6], SM_CineCam
+[2022.03.12-01.29.45:141][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: 23262513226D9EC3E86C63837D727B469B01792C), compiling. 
+[2022.03.12-01.29.45:149][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:332][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:332][  0]LogMaterial: Display: Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6756FE51869FDDFDAB77021215E646FBC8B02434), compiling. 
+[2022.03.12-01.29.46:340][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:354][  0]LogShaderCompilers: Display: Started 11 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:354][  0]LogMaterial: Display: Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8368189C601FC30913169F2B69174FF9591FB675), compiling. 
+[2022.03.12-01.29.46:374][  0]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:426][  0]LogShaderCompilers: Display: Started 30 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:426][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.12-01.29.46:628][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D843B5E6CB5C32A31AA05CEE3D490D13B0EDAC67), compiling. 
+[2022.03.12-01.29.46:647][  0]LogShaderCompilers: Display: Submitted 31 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:652][  0]LogShaderCompilers: Display: Started 31 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:652][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CD2B3D05114B4867D6286033FA052A2AE4871498), compiling. 
+[2022.03.12-01.29.46:691][  0]LogShaderCompilers: Display: Submitted 60 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:734][  0]LogShaderCompilers: Display: Started 60 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.46:734][  0]LogMaterial: Display: Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM5, Default, SM5 (DDC key hash: C03D6577FC8F46EBC5DEBF363262F18BD167D11B), compiling. 
+[2022.03.12-01.29.46:754][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.47:186][  0]LogShaderCompilers: Display: Started 32 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.47:186][  0]LogMeshUtilities: Finished distance field build in 0.9s - 38x38x38 distance field, 12 triangles, Range [-0.6, 0.6], EditorCube
+[2022.03.12-01.29.47:186][  0]LogMeshUtilities: Discarded distance field for SplineEditorMesh as mesh was not closed!  Assign a two-sided material to fix.
+[2022.03.12-01.29.47:186][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 60 triangles, Range [-0.2, 1.0], SplineEditorMesh
+[2022.03.12-01.29.47:186][  0]LogMaterial: Display: Missing cached shadermap for PokeAHoleMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8BA0692EC6B78075F10543F5AD7BBF5C35E6AB05), compiling. 
+[2022.03.12-01.29.47:195][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.47:195][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.12-01.29.47:516][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.47:516][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.12-01.29.47:516][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.03.12-01.29.47:516][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.12-01.29.49:490][  0]LogMaterial: Display: Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9986D844E42491AFD355534BDBA0D838A659AD81), compiling. 
+[2022.03.12-01.29.49:548][  0]LogShaderCompilers: Display: Submitted 93 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.49:553][  0]LogShaderCompilers: Display: Started 93 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.49:553][  0]LogMaterial: Display: Missing cached shadermap for OpaqueUnlitSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6BFE88125D3E23EE9E72692726837D2BB644453C), compiling. 
+[2022.03.12-01.29.49:583][  0]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.49:809][  0]LogShaderCompilers: Display: Started 48 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:619][  0]LogMaterial: Display: Missing cached shadermap for BaseColor in PCD3D_SM5, Default, SM5 (DDC key hash: 03A87385A8665C5D0769561CD42C386454C4B8CC), compiling. 
+[2022.03.12-01.29.50:630][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:643][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:643][  0]LogMaterial: Display: Missing cached shadermap for CustomDepth in PCD3D_SM5, Default, SM5 (DDC key hash: 65E0F815E1DF7E2F7263D16F215CE3456AFCD1B8), compiling. 
+[2022.03.12-01.29.50:652][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:724][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:724][  0]LogMaterial: Display: Missing cached shadermap for CustomStencil in PCD3D_SM5, Default, SM5 (DDC key hash: 05D637D62F81B6B9BC2B413EE0A62E9362A4A4DF), compiling. 
+[2022.03.12-01.29.50:733][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:735][  0]LogMaterial: Display: Missing cached shadermap for FinalImage in PCD3D_SM5, Default, SM5 (DDC key hash: EDFD033475A7528F6D22528EC51686ED296D6B95), compiling. 
+[2022.03.12-01.29.50:743][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:743][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:745][  0]LogMaterial: Display: Missing cached shadermap for LightingModel in PCD3D_SM5, Default, SM5 (DDC key hash: 85EE9CFB6FB125D3E305F05D34B304C0160BF4F4), compiling. 
+[2022.03.12-01.29.50:754][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:754][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:762][  0]LogMaterial: Display: Missing cached shadermap for MaterialAO in PCD3D_SM5, Default, SM5 (DDC key hash: CC081CB1CF43603323158DAD28AFCD27F8ACF82F), compiling. 
+[2022.03.12-01.29.50:770][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:770][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:781][  0]LogMaterial: Display: Missing cached shadermap for Metallic in PCD3D_SM5, Default, SM5 (DDC key hash: B34307E98D59F2FC48C3829DD025D6A917BA1288), compiling. 
+[2022.03.12-01.29.50:790][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:790][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:819][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:819][  0]LogMaterial: Display: Missing cached shadermap for Opacity in PCD3D_SM5, Default, SM5 (DDC key hash: 47D2F4E967A812E511597AE65FE1627D14EC1D38), compiling. 
+[2022.03.12-01.29.50:827][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:830][  0]LogMaterial: Display: Missing cached shadermap for Roughness in PCD3D_SM5, Default, SM5 (DDC key hash: A7D8C50C3C66FCA0CFD8DBC8AD3E5297491BF5DA), compiling. 
+[2022.03.12-01.29.50:837][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:837][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:872][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:872][  0]LogMaterial: Display: Missing cached shadermap for Anisotropy in PCD3D_SM5, Default, SM5 (DDC key hash: CE4D0909C72DB6B6930BCEFA229E6CDA98B627A9), compiling. 
+[2022.03.12-01.29.50:880][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:893][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:893][  0]LogMaterial: Display: Missing cached shadermap for SceneColor in PCD3D_SM5, Default, SM5 (DDC key hash: 9245751AE89B6C3D1CB962875F61974683C727FA), compiling. 
+[2022.03.12-01.29.50:901][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:903][  0]LogMaterial: Display: Missing cached shadermap for SceneDepth in PCD3D_SM5, Default, SM5 (DDC key hash: B558277E41D93B0F3CB4C904BFCAD4A223F32F21), compiling. 
+[2022.03.12-01.29.50:912][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:912][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:928][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:928][  0]LogMaterial: Display: Missing cached shadermap for SeparateTranslucencyRGB in PCD3D_SM5, Default, SM5 (DDC key hash: D754345EED8A7C26F7E0B07884721D398E0359EE), compiling. 
+[2022.03.12-01.29.50:937][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:952][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:952][  0]LogMaterial: Display: Missing cached shadermap for SeparateTranslucencyA in PCD3D_SM5, Default, SM5 (DDC key hash: ED4DAD3E09F5B2B217819A4E8DE66FA8151FA732), compiling. 
+[2022.03.12-01.29.50:960][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:962][  0]LogMaterial: Display: Missing cached shadermap for Specular in PCD3D_SM5, Default, SM5 (DDC key hash: 527AC202CE9F346498BECD05CC4E94E774121ABE), compiling. 
+[2022.03.12-01.29.50:971][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:971][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.50:973][  0]LogMaterial: Display: Missing cached shadermap for SubsurfaceColor in PCD3D_SM5, Default, SM5 (DDC key hash: 49D0FAE582CDDD4591FA89F1A6DF84E5E8C325C6), compiling. 
+[2022.03.12-01.29.50:981][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:001][  0]LogShaderCompilers: Display: Started 26 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:001][  0]LogMaterial: Display: Missing cached shadermap for WorldNormal in PCD3D_SM5, Default, SM5 (DDC key hash: 2A8D4C5132C4082FC31580072F40AABE011D0503), compiling. 
+[2022.03.12-01.29.51:010][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:021][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:021][  0]LogMaterial: Display: Missing cached shadermap for WorldTangent in PCD3D_SM5, Default, SM5 (DDC key hash: 851ED0526BA1AA425A7BEBEAB020B986B8C7BE29), compiling. 
+[2022.03.12-01.29.51:030][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:069][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:069][  0]LogMaterial: Display: Missing cached shadermap for AmbientOcclusion in PCD3D_SM5, Default, SM5 (DDC key hash: 0B6D6692BEACB82AD1979A510FA4C6CB6741279D), compiling. 
+[2022.03.12-01.29.51:078][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:105][  0]LogShaderCompilers: Display: Started 14 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:105][  0]LogMaterial: Display: Missing cached shadermap for CustomDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: CAC17DDEEBBB300AEDFA2A6EF41B7DFBBEE586FC), compiling. 
+[2022.03.12-01.29.51:114][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:125][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:125][  0]LogMaterial: Display: Missing cached shadermap for SceneDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: AB0F9B0F831948B94ACD5BE67F820E19004D9042), compiling. 
+[2022.03.12-01.29.51:134][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:137][  0]LogMaterial: Display: Missing cached shadermap for Velocity in PCD3D_SM5, Default, SM5 (DDC key hash: 22949406A169A10D5F8AE7049BE6C3B6B47223E7), compiling. 
+[2022.03.12-01.29.51:146][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:146][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:148][  0]LogMaterial: Display: Missing cached shadermap for PreTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: C781C427BD9E514E7C66CBEBFBE4E168115FCBC1), compiling. 
+[2022.03.12-01.29.51:157][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:160][  0]LogShaderCompilers: Display: Started 26 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:160][  0]LogMaterial: Display: Missing cached shadermap for PostTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 4A280E21491FBAD00117FBC3DF9E1223FD61698F), compiling. 
+[2022.03.12-01.29.51:169][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:910][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.51:910][  0]LogMeshUtilities: Finished distance field build in 4.3s - 64x64x64 distance field, 3968 triangles, Range [-0.1, 1.0], EditorSkySphere
+[2022.03.12-01.29.51:910][  0]LogMeshUtilities: Finished distance field build in 0.4s - 28x28x38 distance field, 448 triangles, Range [-0.5, 0.6], EditorCylinder
+[2022.03.12-01.29.51:910][  0]LogMeshUtilities: Finished distance field build in 0.1s - 8x38x38 distance field, 32 triangles, Range [-0.1, 1.0], EditorPlane
+[2022.03.12-01.29.51:910][  0]LogPython: Using Python 3.7.7
+[2022.03.12-01.29.53:846][  0]LogMeshUtilities: Finished distance field build in 1.8s - 48x48x48 distance field, 3968 triangles, Range [-0.6, 1.0], EditorSphere
+[2022.03.12-01.29.54:250][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 040198B140AB45852C2A32815036DA18 | Instance: 62AAF6C04A367C5C6D1F3A812ADA817E (DESKTOP-KHAR8GD-6400).
+[2022.03.12-01.29.55:543][  0]LogMaterial: Display: Missing cached shadermap for DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DA787BCDF3B75C1F4691134D136ED3FF32D9B2ED), compiling. 
+[2022.03.12-01.29.55:697][  0]LogShaderCompilers: Display: Submitted 237 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.55:750][  0]LogShaderCompilers: Display: Started 237 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.55:750][  0]LogMaterial: Display: Missing cached shadermap for M_Emissive_Color in PCD3D_SM5, Default, SM5 (DDC key hash: 8FB9100246E208067F0AC918128444C0482334E4), compiling. 
+[2022.03.12-01.29.55:758][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.55:811][  0]LogMaterial: Display: Missing cached shadermap for VertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4F8A0073DE5C99E58A56892BC962913AA2F9190F), compiling. 
+[2022.03.12-01.29.55:893][  0]LogShaderCompilers: Display: Started 11 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.55:893][  0]LogShaderCompilers: Display: Submitted 130 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.55:914][  0]LogShaderCompilers: Display: Started 130 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.55:914][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 53712A52551C2940349A75487BFCDB7C2F2030E6), compiling. Is special engine material.
+[2022.03.12-01.29.56:489][  0]LogShaderCompilers: Display: Submitted 857 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.56:695][  0]LogShaderCompilers: Display: Started 857 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.56:695][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.12-01.29.56:772][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.12-01.29.58:579][  0]SourceControl: Source control is disabled
+[2022.03.12-01.29.58:579][  0]SourceControl: Source control is disabled
+[2022.03.12-01.29.58:682][  0]SourceControl: Source control is disabled
+[2022.03.12-01.29.58:781][  0]SourceControl: Source control is disabled
+[2022.03.12-01.29.58:806][  0]SourceControl: Source control is disabled
+[2022.03.12-01.29.58:831][  0]LogUProjectInfo: Found projects:
+[2022.03.12-01.29.59:542][  0]LogMaterial: Display: Missing cached shadermap for SpeedTreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 152A21E13523865E0B058936D23256A59B592609), compiling. 
+[2022.03.12-01.29.59:623][  0]LogShaderCompilers: Display: Submitted 120 shader compile jobs with 'Low' priority
+[2022.03.12-01.29.59:625][  0]LogShaderCompilers: Display: Started 120 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.29.59:641][  0]LogMaterial: Display: Missing cached shadermap for SpeedTreeBillboardMaster in PCD3D_SM5, Default, SM5 (DDC key hash: FA247F87CDA7049B2B73CFC50C1E98A3D83861B9), compiling. 
+[2022.03.12-01.29.59:701][  0]LogShaderCompilers: Display: Submitted 94 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.00:663][  0]LogShaderCompilers: Display: Started 94 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.00:921][  0]LogMaterial: Display: Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM5, Default, SM5 (DDC key hash: 0E31894A7BC9EDF9FFB12DB13BD4104DEA81CFEA), compiling. 
+[2022.03.12-01.30.00:930][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.01:180][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.01:180][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.12-01.30.01:742][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.12-01.30.01:855][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.12-01.30.01:855][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.12-01.30.02:148][  0]LogMaterial: Display: Missing cached shadermap for M_XRController in PCD3D_SM5, Default, SM5 (DDC key hash: C618436691BD0DB160061BE5086578116C37FF1B), compiling. 
+[2022.03.12-01.30.02:164][  0]LogShaderCompilers: Display: Submitted 21 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.02:165][  0]LogMaterial: Display: Missing cached shadermap for MI_GoogleDaydream in PCD3D_SM5, Default, SM5 (DDC key hash: 7F2D09D66C7E44493CC3B050E57386B654E5A96B), compiling. 
+[2022.03.12-01.30.02:180][  0]LogShaderCompilers: Display: Started 21 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.02:181][  0]LogShaderCompilers: Display: Submitted 21 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.02:526][  0]LogShaderCompilers: Display: Started 21 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.02:526][  0]LogMaterial: Display: Missing cached shadermap for MI_right_ValveIndex in PCD3D_SM5, Default, SM5 (DDC key hash: E1E653917E938FF02E6777D9A4752FCE71BDE6B7), compiling. 
+[2022.03.12-01.30.02:541][  0]LogShaderCompilers: Display: Submitted 21 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.03:020][  0]LogShaderCompilers: Display: Started 21 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.03:020][  0]LogCollectionManager: Loaded 0 collections in 0.000921 seconds
+[2022.03.12-01.30.03:071][  0]LogFileCache: Scanning file cache for directory 'D:/TestGame/CityParkEnvironmentCollec/Saved/Collections/' took 0.03s
+[2022.03.12-01.30.03:071][  0]LogFileCache: Scanning file cache for directory 'D:/TestGame/CityParkEnvironmentCollec/Content/Developers/inser/Collections/' took 0.03s
+[2022.03.12-01.30.03:071][  0]LogFileCache: Scanning file cache for directory 'D:/TestGame/CityParkEnvironmentCollec/Content/Collections/' took 0.03s
+[2022.03.12-01.30.03:219][  0]LogMaterial: Display: Missing cached shadermap for OculusMR_ChromaKey in PCD3D_SM5, Default, SM5 (DDC key hash: 0EED3E30F66B189C7D89C8A3C13FD9B4DB9139BA), compiling. 
+[2022.03.12-01.30.03:228][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.03:243][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.03:243][  0]LogMaterial: Display: Missing cached shadermap for OculusMR_OpaqueColoredMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2F23CD2CA73FB9994AE47F1E6157C24C1CA80CB5), compiling. 
+[2022.03.12-01.30.03:251][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.03:278][  0]LogShaderCompilers: Display: Started 11 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.03:278][  0]LogOcInput: OculusInput pre-init called
+[2022.03.12-01.30.03:556][  0]LogMaterial: Display: Missing cached shadermap for touchController_mat in PCD3D_SM5, Default, SM5 (DDC key hash: BC1A3C9F5730DD19303571D653D78C3A97EB946D), compiling. 
+[2022.03.12-01.30.03:583][  0]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.03:660][  0]LogShaderCompilers: Display: Started 42 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.03:660][  0]LogMaterial: Display: Missing cached shadermap for TouchForQuestRiftSControllerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4D73935F0780DE1CB59869E8D09E83BA9360359D), compiling. 
+[2022.03.12-01.30.03:675][  0]LogShaderCompilers: Display: Submitted 21 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.03:707][  0]LogShaderCompilers: Display: Started 21 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.04:034][  0]LogMaterial: Display: Missing cached shadermap for HighResScreenshot in PCD3D_SM5, Default, SM5 (DDC key hash: 4CFB27B9BD2EEC96130E72DB82F3B59E6F875C83), compiling. 
+[2022.03.12-01.30.04:043][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.04:046][  0]LogMaterial: Display: Missing cached shadermap for HighResScreenshotMask in PCD3D_SM5, Default, SM5 (DDC key hash: 9A16608F859B586278917B861FCBFA589E138570), compiling. 
+[2022.03.12-01.30.04:056][  0]LogShaderCompilers: Display: Started 14 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.04:056][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.04:060][  0]LogMaterial: Display: Missing cached shadermap for HighResScreenshotCaptureRegion in PCD3D_SM5, Default, SM5 (DDC key hash: 87BCC47236FA9A1C386835F6AFEC6D6C993C0E73), compiling. 
+[2022.03.12-01.30.04:069][  0]LogShaderCompilers: Display: Started 14 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.04:069][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.04:378][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.05:354][  0]LogEngine: Initializing Engine...
+[2022.03.12-01.30.05:405][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.12-01.30.05:418][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.12-01.30.05:430][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.12-01.30.05:512][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.03.12-01.30.05:538][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 358035A3A093B0CE52C779BA8AD4FDF21F3DF8D4), compiling. Is special engine material.
+[2022.03.12-01.30.06:224][  0]LogShaderCompilers: Display: Submitted 1170 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.06:256][  0]LogShaderCompilers: Display: Started 1170 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.06:256][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A34F23FFC715A006110F19F6D8C33FE263F0C100), compiling. Is special engine material.
+[2022.03.12-01.30.06:701][  0]LogShaderCompilers: Display: Submitted 805 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.06:729][  0]LogShaderCompilers: Display: Started 805 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.06:729][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM5, Default, SM5 (DDC key hash: D45EF4D9B43B57FD3E49356215F1EB7D65CECF60), compiling. Is special engine material.
+[2022.03.12-01.30.07:419][  0]LogShaderCompilers: Display: Submitted 1170 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.07:449][  0]LogShaderCompilers: Display: Started 1170 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.07:449][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F2F8C54F8E583D9B534810F83F0A49102A3A7043), compiling. Is special engine material.
+[2022.03.12-01.30.08:153][  0]LogShaderCompilers: Display: Submitted 1170 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:171][  0]LogShaderCompilers: Display: Started 1170 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:171][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM5, Default, SM5 (DDC key hash: F565522DF1F3E6876463B1BC62BD130CA9F97CE8), compiling. Is special engine material.
+[2022.03.12-01.30.08:628][  0]LogShaderCompilers: Display: Submitted 805 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:647][  0]LogShaderCompilers: Display: Started 805 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:647][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_ColorOnly in PCD3D_SM5, Default, SM5 (DDC key hash: A331163EE3F5B0C740DEE2ECDBF13155F9A0FCED), compiling. 
+[2022.03.12-01.30.08:695][  0]LogShaderCompilers: Display: Submitted 77 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:697][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_AlphaAsColor in PCD3D_SM5, Default, SM5 (DDC key hash: A6EFC563C3A2EE5200116B7BEECB458BF0E85C9B), compiling. 
+[2022.03.12-01.30.08:732][  0]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:734][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_RedOnly in PCD3D_SM5, Default, SM5 (DDC key hash: 1F501A783314563E9CE46EE515DDF33C10908925), compiling. 
+[2022.03.12-01.30.08:767][  0]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:769][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_GreenOnly in PCD3D_SM5, Default, SM5 (DDC key hash: AE529A2A9F85D1F897ABC2A3B85D296B10AE6BCC), compiling. 
+[2022.03.12-01.30.08:801][  0]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:803][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_BlueOnly in PCD3D_SM5, Default, SM5 (DDC key hash: B75892D99DB1D851853B4E73945C6837FE5C208F), compiling. 
+[2022.03.12-01.30.08:837][  0]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:854][  0]LogMaterial: Display: Missing cached shadermap for RemoveSurfaceMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 232B0B7E506974D649001F1A90226D234368513F), compiling. 
+[2022.03.12-01.30.08:862][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:895][  0]LogShaderCompilers: Display: Started 308 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:895][  0]LogMaterial: Display: Missing cached shadermap for DebugMeshMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3AF4F99515651A24B9F22A463D6C68084F3FE8CB), compiling. 
+[2022.03.12-01.30.08:905][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:909][  0]LogMaterial: Display: Missing cached shadermap for EmissiveMeshMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 62C75353EA888A2DD00FE4951B5184046AFA17C9), compiling. 
+[2022.03.12-01.30.08:918][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:921][  0]LogMaterial: Display: Missing cached shadermap for M_InvalidLightmapSettings in PCD3D_SM5, Default, SM5 (DDC key hash: 44E9AF0BA66954F6CB50AA26FA2B0B604387C521), compiling. 
+[2022.03.12-01.30.08:951][  0]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.08:953][  0]LogMaterial: Display: Missing cached shadermap for GizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9C811C5F7512507A1D33D9EF6D5A7309C735064B), compiling. 
+[2022.03.12-01.30.08:965][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:004][  0]LogMaterial: Display: Missing cached shadermap for PhAT_JointLimitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BDB7F8A328D6EFB9E78770E6AACA3F87CB511268), compiling. 
+[2022.03.12-01.30.09:020][  0]LogShaderCompilers: Display: Started 86 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:020][  0]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:037][  0]LogMaterial: Display: Missing cached shadermap for GeomMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A14EE84A049BCCB956001371F142BE2F6D45C4F3), compiling. 
+[2022.03.12-01.30.09:048][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:050][  0]LogMaterial: Display: Missing cached shadermap for EditorBrushMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 381F1F2EC1852679FA17BAB7D987D9BBBF8748E9), compiling. 
+[2022.03.12-01.30.09:059][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:071][  0]LogShaderCompilers: Display: Started 47 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:071][  0]LogMaterial: Display: Missing cached shadermap for BoneWeightMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6D471764D98E81EF8EE7E36745DD1E2769B030C4), compiling. 
+[2022.03.12-01.30.09:121][  0]LogShaderCompilers: Display: Submitted 72 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:135][  0]LogShaderCompilers: Display: Started 72 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:135][  0]LogMaterial: Display: Missing cached shadermap for ClothMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FC1A8F505B11749B1010B4349F10294E72753897), compiling. 
+[2022.03.12-01.30.09:144][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:157][  0]LogMaterial: Display: Missing cached shadermap for ClothMaterial_WF in PCD3D_SM5, Default, SM5 (DDC key hash: 4D10DDDEDEA2E1A06A6281ECF5A6A75FDB6E6A6D), compiling. 
+[2022.03.12-01.30.09:168][  0]LogShaderCompilers: Display: Started 14 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:168][  0]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:215][  0]LogShaderCompilers: Display: Started 17 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:215][  0]LogMaterial: Display: Missing cached shadermap for DebugEditorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3DE095210C26516CC006F1C2274AB1EBB2A10AA2), compiling. 
+[2022.03.12-01.30.09:226][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:241][  0]LogShaderCompilers: Display: Started 16 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:241][  0]LogMaterial: Display: Missing cached shadermap for PhysicalMaterialMaskMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ECD87402CBFE1C1ECA978F4512F75503E18B1BBB), compiling. 
+[2022.03.12-01.30.09:326][  0]LogShaderCompilers: Display: Submitted 130 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:338][  0]LogShaderCompilers: Display: Started 130 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:338][  0]LogMaterial: Display: Missing cached shadermap for PreviewShadowIndicatorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 464EE376C3977D58D66F28952BDC58A8AB0D1B56), compiling. 
+[2022.03.12-01.30.09:358][  0]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:480][  0]LogShaderCompilers: Display: Started 28 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.09:480][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.12-01.30.10:030][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.12-01.30.10:097][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.12-01.30.10:114][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.12-01.30.10:161][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.12-01.30.10:194][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.12-01.30.10:194][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.12-01.30.10:194][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.12-01.30.10:195][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.12-01.30.10:195][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.12-01.30.10:195][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.12-01.30.10:195][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.12-01.30.10:195][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.12-01.30.10:195][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.12-01.30.10:195][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.12-01.30.10:204][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.12-01.30.10:204][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.12-01.30.10:204][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.12-01.30.10:204][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.12-01.30.10:309][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.12-01.30.10:309][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.12-01.30.10:541][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.12-01.30.10:565][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.12-01.30.10:598][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.12-01.30.10:598][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.12-01.30.10:600][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.12-01.30.10:601][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.12-01.30.10:601][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.12-01.30.10:603][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.12-01.30.10:603][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.12-01.30.10:603][  0]LogInit: FAudioDevice initialized.
+[2022.03.12-01.30.10:613][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.12-01.30.10:613][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.12-01.30.10:702][  0]LogDerivedDataCache: Saved boot cache 0.09s 104MB C:/Users/inser/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.12-01.30.10:703][  0]LogInit: Texture streaming: Enabled
+[2022.03.12-01.30.10:807][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.12-01.30.10:832][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.12-01.30.10:832][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={32006A83-414E-0BDB-3E5E-3391DB06499E}
+[2022.03.12-01.30.10:832][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.12-01.30.10:882][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.12-01.30.11:224][  0]LogInit: Transaction tracking system initialized
+[2022.03.12-01.30.11:987][  0]BlueprintLog: New page: Editor Load
+[2022.03.12-01.30.13:288][  0]LocalizationService: Localization service is disabled
+[2022.03.12-01.30.13:711][  0]TimingProfiler: Initialize
+[2022.03.12-01.30.13:712][  0]TimingProfiler: OnSessionChanged
+[2022.03.12-01.30.13:712][  0]LoadingProfiler: Initialize
+[2022.03.12-01.30.13:713][  0]LoadingProfiler: OnSessionChanged
+[2022.03.12-01.30.13:713][  0]NetworkingProfiler: Initialize
+[2022.03.12-01.30.13:713][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.12-01.30.13:713][  0]MemoryProfiler: Initialize
+[2022.03.12-01.30.13:713][  0]MemoryProfiler: OnSessionChanged
+[2022.03.12-01.30.13:739][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2022.03.12-01.30.13:739][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2022.03.12-01.30.14:676][  0]LogMaterial: Display: Missing cached shadermap for Cross_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8D1F1D1122AA27905086DB118791D81520CA1425), compiling. 
+[2022.03.12-01.30.14:695][  0]LogShaderCompilers: Display: Submitted 31 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:739][  0]LogShaderCompilers: Display: Started 31 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:739][  0]LogMaterial: Display: Missing cached shadermap for PhAT_BoneSelectedMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6443D597EE2164E9D15E9049E007E957BEBCFE4E), compiling. 
+[2022.03.12-01.30.14:748][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:750][  0]LogMaterial: Display: Missing cached shadermap for PhAT_ElemSelectedMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F876B86AFA4092960B936C54C26B83EB04E79C7B), compiling. 
+[2022.03.12-01.30.14:759][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:759][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:763][  0]LogMaterial: Display: Missing cached shadermap for PhAT_NoCollisionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BD492E1B69ACAB5E67C6787B089B15D696A1A5F6), compiling. 
+[2022.03.12-01.30.14:773][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:773][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:797][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:798][  0]LogMaterial: Display: Missing cached shadermap for PhAT_UnselectedMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 45EF1BE08397B03A1183FF342D27A658C7A165CA), compiling. 
+[2022.03.12-01.30.14:806][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:839][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:839][  0]LogMaterial: Display: Missing cached shadermap for Tick_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0BA5956DF5B769D40715130A35A80EE2FBC6940D), compiling. 
+[2022.03.12-01.30.14:859][  0]LogShaderCompilers: Display: Submitted 31 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:884][  0]LogShaderCompilers: Display: Started 31 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:884][  0]LogMaterial: Display: Missing cached shadermap for WidgetGridVertexColorMaterial_Ma in PCD3D_SM5, Default, SM5 (DDC key hash: D07802081C7B3B688090638E860D182F6379D560), compiling. 
+[2022.03.12-01.30.14:893][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:895][  0]LogMaterial: Display: Missing cached shadermap for WidgetMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4398E61BC5CAAE6A3844A7BEA95F83D2D834A8CF), compiling. 
+[2022.03.12-01.30.14:907][  0]LogShaderCompilers: Display: Started 14 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:907][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:910][  0]LogMaterial: Display: Missing cached shadermap for WidgetMaterial_Current in PCD3D_SM5, Default, SM5 (DDC key hash: ACCF37D0451C866444986C805202CEC91D4820C6), compiling. 
+[2022.03.12-01.30.14:921][  0]LogShaderCompilers: Display: Started 16 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:921][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:924][  0]LogMaterial: Display: Missing cached shadermap for WidgetMaterial_X in PCD3D_SM5, Default, SM5 (DDC key hash: 94797D2C7F0170E4E5081B83F1E7FDB47A2705C6), compiling. 
+[2022.03.12-01.30.14:936][  0]LogShaderCompilers: Display: Started 16 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:936][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:938][  0]LogMaterial: Display: Missing cached shadermap for WidgetMaterial_Y in PCD3D_SM5, Default, SM5 (DDC key hash: AE2A9AFBEF979E8964E660413A04A1236A94B3E7), compiling. 
+[2022.03.12-01.30.14:950][  0]LogShaderCompilers: Display: Started 16 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:950][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:952][  0]LogMaterial: Display: Missing cached shadermap for WidgetMaterial_Z in PCD3D_SM5, Default, SM5 (DDC key hash: 111779C2CF883D9DAE8E788282C3FEC436AC9567), compiling. 
+[2022.03.12-01.30.14:964][  0]LogShaderCompilers: Display: Started 16 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:964][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.14:967][  0]LogMaterial: Display: Missing cached shadermap for WidgetVertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 36D63582E2782D8E5AE27E9F56FCCE0E54B49F23), compiling. 
+[2022.03.12-01.30.14:976][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.15:113][  0]LogShaderCompilers: Display: Started 30 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.15:113][  0]LogMaterial: Display: Missing cached shadermap for LevelGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 03AA660FF2012BB1F7A46DDF1352EB0FA8ACEB60), compiling. 
+[2022.03.12-01.30.15:137][  0]LogShaderCompilers: Display: Submitted 31 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.15:310][  0]LogShaderCompilers: Display: Started 31 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.15:333][  0]LogMaterial: Display: Missing cached shadermap for BlinkingCaret in PCD3D_SM5, Default, SM5 (DDC key hash: 72730E9F974022B74DBB8D166A0F76FEDFFB860A), compiling. 
+[2022.03.12-01.30.15:342][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.15:604][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.15:604][  0]LogMaterial: Display: Missing cached shadermap for M_StreamingPause in PCD3D_SM5, Default, SM5 (DDC key hash: D35FE45AFD9BCD6A6849ED435EE3AD419324DDEC), compiling. 
+[2022.03.12-01.30.15:613][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.15:751][  0]LogShaderCompilers: Display: Started 12 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.15:752][  0]LogFileCache: Scanning file cache for directory 'D:/TestGame/CityParkEnvironmentCollec/Content/' took 0.01s
+[2022.03.12-01.30.15:752][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.12-01.30.15:752][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.12-01.30.18:329][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.12-01.30.18:539][  0]SourceControl: Source control is disabled
+[2022.03.12-01.30.18:548][  0]LogUnrealEdMisc: Loading editor; pre map load, took 102.571
+[2022.03.12-01.30.18:582][  0]Cmd: MAP LOAD FILE="../../../../../TestGame/CityParkEnvironmentCollec/Content/CityPark/Maps/Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.12-01.30.18:610][  0]LightingResults: New page: Lighting Build
+[2022.03.12-01.30.18:750][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.12-01.30.18:794][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.12-01.30.18:811][  0]MapCheck: New page: Map Check
+[2022.03.12-01.30.18:811][  0]LightingResults: New page: Lighting Build
+[2022.03.12-01.30.19:020][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.12-01.30.19:152][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.03.12-01.30.29:539][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/CityPark/Textures/BaseTextures/TC_HDR01.TC_HDR01', its maximum texture size has been explicitly set to 512.
+[2022.03.12-01.30.34:604][  0]LogMaterial: Display: Missing cached shadermap for M_Sky_Panning_Clouds2 in PCD3D_SM5, Default, SM5 (DDC key hash: CFF28CA4A35F3FBEDFA6F3F4193C9178FD52E775), compiling. 
+[2022.03.12-01.30.34:613][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.34:624][  0]LogShaderCompilers: Display: Started 11 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.34:624][  0]LogMaterial: Display: Missing cached shadermap for M_FloraShader_V_04 in PCD3D_SM5, Default, SM5 (DDC key hash: 052658A46179820F5B1E633919594CF85113C8D5), compiling. 
+[2022.03.12-01.30.34:760][  0]LogMeshUtilities: Finished distance field build in 0.0s - 10x11x9 distance field, 351 triangles, Range [0.0, 1.0], SM_grass09_1
+[2022.03.12-01.30.34:760][  0]LogMeshUtilities: Finished distance field build in 0.0s - 10x10x8 distance field, 213 triangles, Range [0.0, 0.8], SM_grass08_2
+[2022.03.12-01.30.34:760][  0]LogMeshUtilities: Finished distance field build in 0.0s - 16x15x8 distance field, 700 triangles, Range [0.0, 1.0], SM_grass08_3
+[2022.03.12-01.30.34:760][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.34:763][  0]LogMaterial: Display: Missing cached shadermap for MI_GrassMaster in PCD3D_SM5, Default, SM5 (DDC key hash: D37CB657CB1A058363535AC15CD37078EC65A5B1), compiling. 
+[2022.03.12-01.30.34:907][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.34:907][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.34:909][  0]LogMaterial: Display: Missing cached shadermap for MI_Grass08 in PCD3D_SM5, Default, SM5 (DDC key hash: 27DB31DD8379CE8AB465960020A1097EC30EFDCE), compiling. 
+[2022.03.12-01.30.35:057][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:057][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:064][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:064][  0]LogMaterial: Display: Missing cached shadermap for MI_Grass07 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F1E24530A0A3AA72922D107B4CE85A9C9398ABE), compiling. 
+[2022.03.12-01.30.35:224][  0]LogMeshUtilities: Discarded distance field for SM_grass07_2 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.03.12-01.30.35:224][  0]LogMeshUtilities: Finished distance field build in 0.1s - 23x19x8 distance field, 740 triangles, Range [-0.2, 1.0], SM_grass07_2
+[2022.03.12-01.30.35:224][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 93 triangles, Range [0.0, 1.0], SM_grass08_1
+[2022.03.12-01.30.35:224][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:281][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:281][  0]LogMeshUtilities: Finished distance field build in 0.0s - 9x10x10 distance field, 548 triangles, Range [0.0, 1.0], SM_grass06_1
+[2022.03.12-01.30.35:281][  0]LogMaterial: Display: Missing cached shadermap for MI_Grass01 in PCD3D_SM5, Default, SM5 (DDC key hash: A60C98C75FDABA750F4D22377F999E8579000777), compiling. 
+[2022.03.12-01.30.35:435][  0]LogMeshUtilities: Finished distance field build in 0.1s - 16x13x21 distance field, 264 triangles, Range [0.0, 1.0], SM_grass04
+[2022.03.12-01.30.35:435][  0]LogMeshUtilities: Finished distance field build in 0.0s - 11x11x8 distance field, 366 triangles, Range [0.0, 0.9], SM_grass01_2
+[2022.03.12-01.30.35:435][  0]LogMeshUtilities: Finished distance field build in 0.0s - 16x13x8 distance field, 714 triangles, Range [0.0, 0.8], SM_grass01_3
+[2022.03.12-01.30.35:435][  0]LogMeshUtilities: Finished distance field build in 0.1s - 15x11x23 distance field, 291 triangles, Range [0.0, 0.9], SM_grass02
+[2022.03.12-01.30.35:435][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:490][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:490][  0]LogMaterial: Display: Missing cached shadermap for MI_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: C47855D0A400838C381563010B049DD2F234E1C6), compiling. 
+[2022.03.12-01.30.35:650][  0]LogMeshUtilities: Finished distance field build in 0.1s - 14x15x24 distance field, 241 triangles, Range [0.0, 1.0], SM_grass03
+[2022.03.12-01.30.35:650][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:652][  0]LogMaterial: Display: Missing cached shadermap for MI_TreeBark02_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E6C6D93EEFEBD9F01AD7C76C043E0E0903D2E870), compiling. 
+[2022.03.12-01.30.35:817][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:817][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:827][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:827][  0]LogMaterial: Display: Missing cached shadermap for MI_BushMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 0F51495540A62E016B28D4E6A484FFB0FFA757B5), compiling. 
+[2022.03.12-01.30.35:980][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.35:982][  0]LogMaterial: Display: Missing cached shadermap for MI_Bush05 in PCD3D_SM5, Default, SM5 (DDC key hash: D4315DE29A95EF535D5EA1EF64CAD21B01E874B3), compiling. 
+[2022.03.12-01.30.36:137][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.36:137][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.36:182][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.36:182][  0]LogMaterial: Display: Missing cached shadermap for MI_ElmBranch01 in PCD3D_SM5, Default, SM5 (DDC key hash: 70FFCBFDA68CACBF5BCFBCCAA288EAE2BCCB9427), compiling. 
+[2022.03.12-01.30.36:341][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.36:408][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.36:408][  0]LogMaterial: Display: Missing cached shadermap for MI_Bush02 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B2F274FBA2C35A3DCD8E88C4DB3A00717387B42), compiling. 
+[2022.03.12-01.30.36:558][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.36:565][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.36:565][  0]LogMaterial: Display: Missing cached shadermap for MI_Bush01 in PCD3D_SM5, Default, SM5 (DDC key hash: 328263515582A3B2A30415E01026D8F441427884), compiling. 
+[2022.03.12-01.30.36:722][  0]LogShaderCompilers: Display: Submitted 225 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.36:766][  0]LogShaderCompilers: Display: Started 225 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.36:766][  0]LogMaterial: Display: Missing cached shadermap for M_MainShader_V_11 in PCD3D_SM5, Default, SM5 (DDC key hash: 9EF48A7E99FD7CBF120053967B271EEFB504314A), compiling. 
+[2022.03.12-01.30.37:024][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:026][  0]LogMaterial: Display: Missing cached shadermap for MI_House02 in PCD3D_SM5, Default, SM5 (DDC key hash: D3418CDEFB05CA177BEBFFE714BF3041CC2B8127), compiling. 
+[2022.03.12-01.30.37:267][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:267][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:269][  0]LogMaterial: Display: Missing cached shadermap for MI_Stairs01 in PCD3D_SM5, Default, SM5 (DDC key hash: 43867553A1B8B883A8A0F6E539A92D0A99508441), compiling. 
+[2022.03.12-01.30.37:526][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:526][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:537][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:537][  0]LogMaterial: Display: Missing cached shadermap for M_GlassShader_V_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 08E9FB8F5566418B907E804BE4A7A39F3FCDE365), compiling. 
+[2022.03.12-01.30.37:649][  0]LogShaderCompilers: Display: Submitted 120 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:680][  0]LogShaderCompilers: Display: Started 120 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:680][  0]LogMaterial: Display: Missing cached shadermap for MI_CafeGlass01 in PCD3D_SM5, Default, SM5 (DDC key hash: B64EEE3A3847ED786A221AD64E84028D3CF72542), compiling. 
+[2022.03.12-01.30.37:911][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:929][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.37:929][  0]LogMaterial: Display: Missing cached shadermap for MI_Tribune02 in PCD3D_SM5, Default, SM5 (DDC key hash: 679AFD99FE83DA4063E9FE6AC96683C103FDF808), compiling. 
+[2022.03.12-01.30.38:190][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.38:192][  0]LogMaterial: Display: Missing cached shadermap for MI_TennisField4 in PCD3D_SM5, Default, SM5 (DDC key hash: DC737CFCE7FDC93E29056B0D70E53883E3956CC2), compiling. 
+[2022.03.12-01.30.38:449][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.38:449][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.38:455][  0]LogMaterial: Display: Missing cached shadermap for MI_LeakDecal02 in PCD3D_SM5, Default, SM5 (DDC key hash: 84478D2091D28E67663C403A725DAF0517144E4C), compiling. 
+[2022.03.12-01.30.38:691][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.38:691][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.38:694][  0]LogMaterial: Display: Missing cached shadermap for MI_Umbrella02_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 19C3CBD5C33D9C95385699F72CFDEB2C8C2B656B), compiling. 
+[2022.03.12-01.30.38:941][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.38:941][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.38:943][  0]LogMaterial: Display: Missing cached shadermap for M_PixelNormalShader_V_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A2151CD3575980C8BC7E3C3A51BF94C93468F20), compiling. 
+[2022.03.12-01.30.38:974][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.38:974][  0]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.38:975][  0]LogMaterial: Display: Missing cached shadermap for MI_Statue03 in PCD3D_SM5, Default, SM5 (DDC key hash: 7623C14FF0D61A2E21CC203D2470E909758FCB35), compiling. 
+[2022.03.12-01.30.39:006][  0]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.39:008][  0]LogMaterial: Display: Missing cached shadermap for MI_Net in PCD3D_SM5, Default, SM5 (DDC key hash: 591916B1794E6FDCCD468003704BCD704271D7BF), compiling. 
+[2022.03.12-01.30.39:279][  0]LogShaderCompilers: Display: Started 84 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.39:279][  0]LogMeshUtilities: Finished distance field build in 3.6s - 56x48x49 distance field, 11186 triangles, Range [0.0, 1.0], SM_Bush5_03
+[2022.03.12-01.30.39:279][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.39:282][  0]LogMaterial: Display: Missing cached shadermap for MI_CafeTable01_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B044C4F41246FB35FE8D551BA0D89E9A4569463), compiling. 
+[2022.03.12-01.30.39:524][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.39:525][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.39:527][  0]LogMaterial: Display: Missing cached shadermap for MI_CafeChair02_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 483F14D96874C4BD0EE5E7FFAE87747F4383DDDB), compiling. 
+[2022.03.12-01.30.39:775][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.39:775][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.39:777][  0]LogMaterial: Display: Missing cached shadermap for MI_CafeChair01_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8FF62F9D4C529DB1ACA217BFF8A7B1D23CACE168), compiling. 
+[2022.03.12-01.30.40:015][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.40:015][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.40:019][  0]LogMaterial: Display: Missing cached shadermap for MI_Playground4_07 in PCD3D_SM5, Default, SM5 (DDC key hash: 336F57C233D2C9F3D4B02DF69E3340BB93B90AFF), compiling. 
+[2022.03.12-01.30.40:262][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.40:262][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.40:274][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.40:274][  0]LogMaterial: Display: Missing cached shadermap for M_WaterShader_V_01 in PCD3D_SM5, Default, SM5 (DDC key hash: DB0D1E13C92D9917A37092C4F77B12FD6996F091), compiling. 
+[2022.03.12-01.30.40:600][  0]LogShaderCompilers: Display: Submitted 348 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.40:603][  0]LogShaderCompilers: Display: Started 348 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.40:603][  0]LogMaterial: Display: Missing cached shadermap for MI_Water5 in PCD3D_SM5, Default, SM5 (DDC key hash: 171C112E058D41EAF7B687331258BA91B7369C98), compiling. 
+[2022.03.12-01.30.40:816][  0]LogShaderCompilers: Display: Submitted 276 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.40:818][  0]LogMaterial: Display: Missing cached shadermap for MI_Rock07 in PCD3D_SM5, Default, SM5 (DDC key hash: 513F76CE2567431E007910E1393EEC9BCB666735), compiling. 
+[2022.03.12-01.30.41:063][  0]LogShaderCompilers: Display: Started 276 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.41:063][  0]LogShaderCompilers: Display: Submitted 360 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.41:067][  0]LogMaterial: Display: Missing cached shadermap for M_LandscapeShader_V_01 in PCD3D_SM5, Default, SM5 (DDC key hash: D288FDC8E3BAB96316F14D5F7096F020FF3CCD9F), compiling. 
+[2022.03.12-01.30.41:108][  0]LogShaderCompilers: Display: Started 360 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.41:108][  0]LogShaderCompilers: Display: Submitted 60 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.41:111][  0]LogMaterial: Display: Missing cached shadermap for MI_Landscape in PCD3D_SM5, Default, SM5 (DDC key hash: D77074CFB2FDD310F86CBE0D6E30BE42F23A9509), compiling. 
+[2022.03.12-01.30.41:156][  0]LogMaterial: Display: Missing cached shadermap for M_gray in PCD3D_SM5, Default, SM5 (DDC key hash: 0E71312E93EECE61016E3275785B684B60ACF608), compiling. 
+[2022.03.12-01.30.41:196][  0]LogShaderCompilers: Display: Started 60 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.41:196][  0]LogShaderCompilers: Display: Submitted 60 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.41:304][  0]LogShaderCompilers: Display: Started 60 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.41:304][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2022.03.12-01.30.41:342][  0]LogTexture: Display: Building textures: DeprecatedTexture1F98909F4393C9AC4EF374B929696960 (BGRA8, 128X128)
+[2022.03.12-01.30.41:347][  0]LogTexture: Display: Building textures: DeprecatedTexture8781D7FB497169DB7DFA2D8A61BDADFF (BGRA8, 128X128)
+[2022.03.12-01.30.41:352][  0]LogTexture: Display: Building textures: DeprecatedTexture6A3B417441564FFFA0BC8C99ED9E8158 (BGRA8, 128X128)
+[2022.03.12-01.30.41:357][  0]LogTexture: Display: Building textures: DeprecatedTexture1FECBD044EDF7ABF8BBB6A9026469722 (BGRA8, 128X128)
+[2022.03.12-01.30.41:363][  0]LogTexture: Display: Building textures: DeprecatedTextureC8ABF1164B5A0E150D0E1CAC603DA662 (BGRA8, 128X128)
+[2022.03.12-01.30.41:368][  0]LogTexture: Display: Building textures: DeprecatedTextureFB1F2E5E44AD36F9A6DB468A693E85D7 (BGRA8, 128X128)
+[2022.03.12-01.30.41:373][  0]LogTexture: Display: Building textures: DeprecatedTextureFB2DA9914F6CD5AEA0F95AB215DB08B9 (BGRA8, 128X128)
+[2022.03.12-01.30.41:375][  0]LogMaterial: Display: Missing cached shadermap for M_Unsharp in PCD3D_SM5, Default, SM5 (DDC key hash: C56F346B9DE740133ABC7D976ADFF71FD9918E16), compiling. 
+[2022.03.12-01.30.41:384][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.03.12-01.30.46:857][  0]LogShaderCompilers: Display: Started 13 'XGE' shader compile jobs with 'Low' priority
+[2022.03.12-01.30.46:857][  0]LogMeshUtilities: Finished distance field build in 4.3s - 64x64x64 distance field, 24060 triangles, Range [0.0, 0.9], SM_CafeBuilding01
+[2022.03.12-01.30.46:857][  0]LogStaticMesh: Building static mesh SM_Elm16...
+[2022.03.12-01.30.59:523][  0]LogMeshUtilities: Finished distance field build in 3.5s - 64x51x64 distance field, 123064 triangles, Range [0.0, 1.0], SM_Ivy2_06
+[2022.03.12-01.30.59:523][  0]LogMeshUtilities: Finished distance field build in 6.0s - 64x64x64 distance field, 177519 triangles, Range [0.0, 1.0], SM_Elm15
+[2022.03.12-01.30.59:523][  0]LogMeshUtilities: Finished distance field build in 5.4s - 64x64x64 distance field, 169918 triangles, Range [0.0, 1.0], SM_Elm14
+[2022.03.12-01.31.06:910][  0]LogMeshUtilities: Finished distance field build in 4.6s - 64x64x64 distance field, 85093 triangles, Range [0.0, 1.0], SM_Elm13
+[2022.03.12-01.31.13:789][  0]LogMeshUtilities: Finished distance field build in 5.5s - 64x64x64 distance field, 63324 triangles, Range [0.0, 1.0], SM_Elm12
+[2022.03.12-01.31.13:789][  0]LogMeshUtilities: Finished distance field build in 4.3s - 64x64x64 distance field, 49446 triangles, Range [0.0, 1.0], SM_Elm11
+[2022.03.12-01.31.22:813][  0]LogMeshUtilities: Finished distance field build in 4.1s - 64x64x64 distance field, 26441 triangles, Range [0.0, 1.0], SM_Elm10
+[2022.03.12-01.31.22:813][  0]LogMeshUtilities: Finished distance field build in 3.9s - 64x64x64 distance field, 17866 triangles, Range [0.0, 1.0], SM_Elm09
+[2022.03.12-01.31.25:020][  0]LogMeshUtilities: Finished distance field build in 3.9s - 64x64x64 distance field, 14565 triangles, Range [0.0, 1.0], SM_Elm08
+[2022.03.12-01.31.32:205][  0]LogMeshUtilities: Finished distance field build in 4.1s - 64x64x64 distance field, 27717 triangles, Range [0.0, 1.0], SM_Elm07
+[2022.03.12-01.31.39:887][  0]LogMeshUtilities: Finished distance field build in 4.7s - 64x64x64 distance field, 26556 triangles, Range [0.0, 1.0], SM_Elm06
+[2022.03.12-01.31.39:887][  0]LogMeshUtilities: Finished distance field build in 3.8s - 64x64x64 distance field, 14562 triangles, Range [0.0, 1.0], SM_Elm05
+[2022.03.12-01.31.39:887][  0]LogMeshUtilities: Finished distance field build in 0.9s - 40x33x50 distance field, 2029 triangles, Range [0.0, 1.0], SM_Elm04
+[2022.03.12-01.31.39:887][  0]LogMeshUtilities: Finished distance field build in 0.8s - 32x37x59 distance field, 1524 triangles, Range [0.0, 1.0], SM_Elm03
+[2022.03.12-01.31.39:887][  0]LogMeshUtilities: Finished distance field build in 0.4s - 30x31x39 distance field, 730 triangles, Range [0.0, 1.0], SM_Elm02
+[2022.03.12-01.31.39:887][  0]LogMeshUtilities: Finished distance field build in 0.4s - 30x31x42 distance field, 782 triangles, Range [0.0, 1.0], SM_Elm01
+[2022.03.12-01.31.47:243][  0]LogMeshUtilities: Finished distance field build in 0.9s - 62x62x19 distance field, 442 triangles, Range [-0.1, 0.6], SM_Bridge03_9
+[2022.03.12-01.31.47:243][  0]LogMeshUtilities: Finished distance field build in 1.8s - 49x49x64 distance field, 1824 triangles, Range [-0.3, 0.7], SM_Bridge03_5
+[2022.03.12-01.31.47:243][  0]LogMeshUtilities: Finished distance field build in 2.3s - 63x64x64 distance field, 2354 triangles, Range [-0.1, 0.6], SM_Bridge03_4
+[2022.03.12-01.31.47:243][  0]LogMeshUtilities: Finished distance field build in 2.4s - 64x64x64 distance field, 1360 triangles, Range [-0.0, 0.7], SM_Bridge03_3
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 2.3s - 63x64x64 distance field, 3546 triangles, Range [-0.1, 0.6], SM_Bridge03_2
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 2.5s - 64x64x64 distance field, 3728 triangles, Range [-0.0, 0.7], SM_Bridge03_1
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.2s - 40x40x8 distance field, 10 triangles, Range [-0.1, 0.6], SM_Bridge03_11
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.3s - 23x62x19 distance field, 438 triangles, Range [-0.1, 0.5], SM_Bridge03_10
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.1s - 8x45x52 distance field, 216 triangles, Range [-0.0, 0.7], SM_Bridge01_2
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.2s - 45x45x10 distance field, 268 triangles, Range [-0.2, 0.5], SM_BorderWood
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.0s - 29x8x8 distance field, 40 triangles, Range [-0.0, 0.4], SM_Border03
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.2s - 64x17x21 distance field, 124 triangles, Range [-0.0, 1.0], SM_Border02
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.2s - 64x17x20 distance field, 124 triangles, Range [-0.0, 1.0], SM_Border01
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.0s - 32x10x9 distance field, 1180 triangles, Range [-0.0, 0.5], SM_Bench02_2
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.1s - 33x16x16 distance field, 1990 triangles, Range [-0.1, 0.7], SM_Bench02_1
+[2022.03.12-01.31.54:472][  0]LogMeshUtilities: Finished distance field build in 0.1s - 30x11x16 distance field, 1760 triangles, Range [-0.0, 0.5], SM_Bench01_1
+[2022.03.12-01.31.55:673][  0]LogMeshUtilities: Finished distance field build in 1.4s - 64x64x40 distance field, 288 triangles, Range [-0.0, 0.7], SM_Asphalt03_2
+[2022.03.12-01.31.55:673][  0]LogStaticMesh: Built static mesh [68.81s] /Game/CityPark/Meshes/Flora/Trees/SM_Elm16.SM_Elm16
+[2022.03.12-01.31.57:660][  0]LogStaticMesh: Building static mesh SM_Elm17...
+[2022.03.12-01.32.00:474][  0]LogMeshUtilities: Finished distance field build in 4.7s - 64x64x64 distance field, 84038 triangles, Range [0.0, 1.0], SM_AmurCork14
+[2022.03.12-01.32.11:827][  0]LogMeshUtilities: Finished distance field build in 5.4s - 64x64x64 distance field, 336864 triangles, Range [0.0, 1.0], SM_Elm16
+[2022.03.12-01.32.11:827][  0]LogMeshUtilities: Finished distance field build in 3.8s - 64x64x64 distance field, 44535 triangles, Range [0.0, 1.0], SM_AmurCork13
+[2022.03.12-01.32.11:827][  0]LogShaderCompilers: Error: Shader compiler returned a non-zero error code (-1073741571).
+[2022.03.12-01.32.11:929][  0]LogShaderCompilers: Rescheduling shader compilation to run locally after XGE job failed: C:/Users/inser/AppData/Local/Temp/UnrealXGEWorkingDir/72037FCA405EE96B6674EA9D17FA16DA/366.xge
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Shader compiler returned a non-zero error code (1).
+[2022.03.12-01.32.13:002][  0]LogMeshUtilities: Finished distance field build in 4.2s - 64x64x64 distance field, 43652 triangles, Range [0.0, 1.0], SM_AmurCork12
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: SCW 10 Queued Jobs, Finished 0 single jobs
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 0 [Single] DefaultMaterial/FMeshParticleVertexFactory/FMaterialTexCoordScalePS/0:/Engine/Private/MaterialTexCoordScalesPixelShader.usf VF 'FMeshParticleVertexFactory' Type 'FMaterialTexCoordScalePS' '/Engine/Private/MaterialTexCoordScalesPixelShader.usf' Entry 'Main' Permutation 0 
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 1 [Single] DefaultMaterial/FInstancedStaticMeshVertexFactory/TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight/0:/Engine/Private/BasePassPixelShader.usf VF 'FInstancedStaticMeshVertexFactory' Type 'TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 2 [Single] DefaultMaterial/FMeshParticleVertexFactory/TBasePassPSFCachedPointIndirectLightingPolicy/0:/Engine/Private/BasePassPixelShader.usf VF 'FMeshParticleVertexFactory' Type 'TBasePassPSFCachedPointIndirectLightingPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 3 [Single] DefaultMaterial/FNiagaraMeshVertexFactory/TBasePassPSFNoLightMapPolicySkylight/0:/Engine/Private/BasePassPixelShader.usf VF 'FNiagaraMeshVertexFactory' Type 'TBasePassPSFNoLightMapPolicySkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 4 [Single] DefaultMaterial/FSplineMeshVertexFactory/TBasePassVSFCachedPointIndirectLightingPolicy/0:/Engine/Private/BasePassVertexShader.usf VF 'FSplineMeshVertexFactory' Type 'TBasePassVSFCachedPointIndirectLightingPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 5 [Single] DefaultMaterial/FNiagaraSpriteVertexFactory/TBasePassPSFCachedVolumeIndirectLightingPolicy/0:/Engine/Private/BasePassPixelShader.usf VF 'FNiagaraSpriteVertexFactory' Type 'TBasePassPSFCachedVolumeIndirectLightingPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 6 [Single] DefaultMaterial/FMeshParticleVertexFactory/TShadowDepthVSVertexShadowDepth_PerspectiveCorrecttrue/0:/Engine/Private/ShadowDepthVertexShader.usf VF 'FMeshParticleVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_PerspectiveCorrecttrue' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 7 [Single] DefaultMaterial/FLocalVertexFactory/TBasePassPSTLightMapPolicyLQ/0:/Engine/Private/BasePassPixelShader.usf VF 'FLocalVertexFactory' Type 'TBasePassPSTLightMapPolicyLQ' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 8 [Single] DefaultMaterial/FNiagaraMeshVertexFactory/TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight/0:/Engine/Private/BasePassPixelShader.usf VF 'FNiagaraMeshVertexFactory' Type 'TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2022.03.12-01.32.13:002][  0]LogShaderCompilers: Error: Job 9 [Single] DefaultMaterial/FInstancedStaticMeshVertexFactory/TBasePassPSTLightMapPolicyLQ/0:/Engine/Private/BasePassPixelShader.usf VF 'FInstancedStaticMeshVertexFactory' Type 'TBasePassPSTLightMapPolicyLQ' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2022.03.12-01.32.13:569][  0]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2022.03.12-01.32.16:667][  0]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 1550049280
+	 AvailableVirtual 726487040
+	     UsedPhysical 3000954880
+	 PeakUsedPhysical 6191960064
+	      UsedVirtual 8703844352
+	  PeakUsedVirtual 10110230528
+[2022.03.12-01.32.16:696][  0]LogMeshUtilities: Finished distance field build in 3.8s - 64x64x64 distance field, 38498 triangles, Range [0.0, 1.0], SM_AmurCork11
+[2022.03.12-01.32.16:696][  0]Allocator Stats for TBB: (not implemented)
+[2022.03.12-01.32.16:902][  0]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.03.12-01.32.16:902][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.12-01.32.16:928][  0]LogWindows: Error: Error reentered: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMemory.cpp] [Line: 197] 
+Ran out of memory allocating 732809808 bytes with alignment 0
+
+
+
